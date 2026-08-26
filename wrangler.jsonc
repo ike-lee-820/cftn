@@ -1,6 +1,10 @@
 {
   "name": "cftn",
   "main": "worker.js",
-  "compatibility_date": "2026-08-26"
+  "compatibility_date": "2026-08-26",
+  "vars": {
+    "PASSWORD": "liyikui917",
+    "ADMIN": "liyikui917"
+  }
 }
 
